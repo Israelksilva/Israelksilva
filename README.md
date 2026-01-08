@@ -4,7 +4,6 @@
 💼 Desenvolvedor Front End voluntário na Horizon Metrics**, atuando com *React e Next.js*
 📊 Desenvolvimento de interfaces focadas em *métricas, dashboards e visualização de dados*
 
-
 🚀 Tecnologias e Ferramentas
 
 *Front End:*
@@ -19,7 +18,6 @@ Dashboards · Análise de métricas · Visualização de dados
 *Outros:*
 Git · Linux
 
-
 🌍 Sobre mim
 
 Sou focado em crescimento profissional na área de *Front End*, com experiência no desenvolvimento de aplicações modernas utilizando *React e Next.js*, sempre com atenção à performance, usabilidade e orientação por dados.
@@ -27,7 +25,6 @@ Sou focado em crescimento profissional na área de *Front End*, com experiência
 Tenho facilidade para trabalhar em equipe, gosto de compartilhar conhecimento e estou em constante aprendizado sobre *boas práticas de UI/UX, performance, métricas e arquitetura Front End*.
 
 🎯 *Objetivo:* criar interfaces modernas, escaláveis, performáticas e orientadas por dados.
-
 
 📫 Contato
 
