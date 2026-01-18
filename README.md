@@ -1,7 +1,7 @@
 👋 Olá! Eu sou **Israel Silva**
 
 🎓 Estudante de Engenharia de Software (4º semestre)
-💼 Desenvolvedor Front End voluntário na Horizon Metrics**, atuando com *React e Next.js*
+💼 Desenvolvedor Front End voluntário na Horizon Metrics, atuando com *React e Next.js
 📊 Desenvolvimento de interfaces focadas em *métricas, dashboards e visualização de dados*
 
 🚀 Tecnologias e Ferramentas
