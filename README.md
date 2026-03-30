@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Israel Silva
+# 👋 Olá, eu sou Israel Alcantara
 
 🎓 **Estudante de Engenharia de Software na UNIFACS** 💻 **Desenvolvedor Front-end em Formação** 🎨 **Focado em criar interfaces modernas, responsivas e acessíveis.**
 
